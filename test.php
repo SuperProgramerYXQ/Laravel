@@ -7,3 +7,5 @@
 
 echo phpinfo();
 echo '这是我第一次推送文件至GitHub';
+
+echo '再次尝试推送';
