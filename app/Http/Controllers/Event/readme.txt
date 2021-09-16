@@ -28,4 +28,4 @@ protected $listen = [
         // 也可操作对象中的方法
         // $event->errorLogController->Errors();
     }
-5.在控制器中实现监听对象的绑定
+5.在控制器中实现监听事件的绑定
